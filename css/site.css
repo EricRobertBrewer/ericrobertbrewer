@@ -77,6 +77,14 @@ a:active {
     padding: 16px 16px 80px 16px;
 }
 
+.body .content p {
+    margin-left: 24px;
+}
+
+.body .content li {
+    margin-top: 8px;
+}
+
 .footer {
     background-color: #606060;
     bottom: 0;
