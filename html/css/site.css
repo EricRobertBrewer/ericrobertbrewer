@@ -50,6 +50,10 @@ a:active {
     vertical-align: middle;
 }
 
+.header .content #pronouns {
+    margin: 0 auto 0 8px;
+}
+
 .header .content .tabs {
     display: inline;
     float: right;
